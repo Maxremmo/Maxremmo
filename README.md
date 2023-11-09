@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Max Remme</h1>
 <h3 align="center">Aspiring Data Engineer with a background in Artificial Intelligenc and Psychology</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxremmo" alt="maxremmo" /></a> </p>
-
-- 🌱 I’m currently learning **Apache Airflow**
 
 - 📫 How to reach me **max.remme@gmail.com**
 
