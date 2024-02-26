@@ -1,4 +1,4 @@
-<h3 align="center">Aspiring Data Engineer with a background in Artificial Intelligenc and Psychology</h3>
+<h3 align="center">Interested in all things Data Engineering/Data Analysis/Python Development with a background in Artificial Intelligenc and Psychology</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxremmo" alt="maxremmo" /></a> </p>
 
